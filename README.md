@@ -35,7 +35,7 @@
 6. Hystrix断路器 cloud-provider-hystrix-payment8001，cloud-consumer-feign-hystrix-order80，cloud-consumer-hystrix-dashboard9001
 7. Gateway新一代网关 cloud-gateway-gateway9527
 8. SpringCloud config分布式配置中心 cloud-config-center-3344，cloud-config-client-3355，cloud-config-client-3366
-9. SpringCloud Bus 消息总线
+9. SpringCloud Bus 消息总线 cloud-config-center-3344，cloud-config-client-3355，cloud-config-client-3366
 10. SpringCloud Stream消息驱动 cloud-stream-rabbitmq-provider8801，cloud-stream-rabbitmq-consumer8802，cloud-stream-rabbitmq-consumer8803
 11. SpringCloud Sleuth分布式请求链路追踪 cloud-provider-payment8001，cloud-consumer-order80
 12. SpringCloud Alibaba Nacos服务注册和配置中心 cloudalibaba-provider-payment9001，cloudalibaba-provider-payment9002，cloudalibaba-consumer-nacos-order83，cloudalibaba-config-nacos-client3377
